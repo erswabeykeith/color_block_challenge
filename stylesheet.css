@@ -1,0 +1,35 @@
+#container {
+  border: 1px solid black;
+  height: 600px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.square {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  margin: 20px;
+}
+
+/*flex items*/
+#cyan {
+  background-color: cyan;
+  
+}
+
+#purple {
+  background-color: purple;
+}
+
+#orange {
+  background-color: orange;
+}
+
+#pink {
+  background-color: pink;
+}
+
+#yellow {
+  background-color: yellow;
+}
